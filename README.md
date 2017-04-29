@@ -31,4 +31,4 @@ A react app for Pizza orders
     ![4](https://cloud.githubusercontent.com/assets/13078364/21093679/2850b10e-c079-11e6-971b-88eb3f3403a3.png)
     
 #About
-  http://chitrankagnihotri.com
+  https://chitrankagnihotri.herokuapp.com
